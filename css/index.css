@@ -1,0 +1,40 @@
+nav {
+    padding-top: 460px;
+    margin-left: 83%;
+}
+header{
+    background-image: url(../img/logo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    margin-bottom: 15px;
+}
+
+aside{
+    margin-left: 60%;
+    margin-bottom: 40%;
+}
+article{
+    margin-bottom: -56%;
+    margin-left: 13%;
+}
+
+footer{
+    padding-left: 40%;
+    background-color: white;
+}
+
+body{
+    background-color: lightblue;
+}
+
+nav p{
+    background-color: maroon;
+    margin-right: 10px;
+    margin-left: -50px;
+}
+nav a{
+    text-decoration: none;
+    color: red;
+    font-size: 17px;
+}
